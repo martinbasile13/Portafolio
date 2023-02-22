@@ -4,11 +4,11 @@ export default function Contact(){
     return(
       
         <div className="flex flex-wrap items-center justify-center text-center">
-            <div className=" flex flex-col items-start justify-start text-start">
+            <div className="flex flex-col items-start justify-start text-start">
                 <div className="p-10">
                 <h1 className="text-5xl mb-6 ml-2">Medios de contacto</h1>
-                <p className="text-2xl mt-5">Enviame un mail para consultar mis servicios</p>
-                <p className="text-2xl mt-3 ">Tambien puedes contactarme en mis redes sociales</p>
+                <p className="text-2xl mt-5">Enviame un Email para consultar mis servicios</p>
+                <p className="text-2xl mt-3 ">Tambien puedes contactarme en mis Redes Sociales</p>
                 </div>
                 <div className="mt-6">
                   <p className="text-2xl ml-16">Redes:</p>
