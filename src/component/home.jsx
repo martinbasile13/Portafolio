@@ -12,8 +12,8 @@ export default function Home({info}) {
             </div>
             <div>
                 <div className="ml-5">
-                    {info === "dracula" && <img src="../../public/svg/program.svg" alt="" className="h-96" />}
-                    {info === "light" && <img src="../../public/svg/program2.svg" alt="" className="h-96" />}
+                    {info === "dracula" && <img src="/../assets/svg/program.svg" alt="" className="h-96" />}
+                    {info === "light" && <img src="/../assets/svg/program2.svg" alt="" className="h-96" />}
                 </div>
             </div>
         </div>
