@@ -10,7 +10,7 @@ export default function Server(){
             <div className="modal">
               <div className="modal-box relative">
                 <label htmlFor="my-modal-5" className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
-                <figure><img src="../../public/imgs/server1.png" alt="" /></figure>
+                <figure><img src="../../imgs/server1.png" alt="" /></figure>
                 <h2 className="text-3xl">FinHogar-Backend </h2>
                 <p className="mb-3 text-xl">Aplicacion en nodejs.</p>
                 <p className="text-xl">Este proyecto lo hice para la universidad, Se trata de una simulacion para las finanzas del hogar, Usando exprees y mysql en azure.</p>

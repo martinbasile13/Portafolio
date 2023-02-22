@@ -11,7 +11,7 @@ export default function Port(){
             <div className="modal">
               <div className="modal-box relative">
                 <label htmlFor="my-modal-4" className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
-                <figure><img src="../../public/imgs/portafolio.png" alt="" /></figure>
+                <figure><img src="../../imgs/portafolio.png" alt="" /></figure>
                 <h2 className="text-3xl">Mi Portafolio</h2>
                 <p className="mb-3 text-xl">Aplicacion en reactjs</p>
                 <p className="text-xl">Este es un proyecto personal de mi portafolio con react y tailwindCSS</p>
