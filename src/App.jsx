@@ -57,7 +57,7 @@ function App() {
         <div name="content" className=" flex flex-col ">
 
           <div className="mt-20">
-            <a href="home"></a>
+            <a name="home"></a>
             <Home info={themes}/>
           </div>
           <div className="items-center justify-center text-center mt-20">
