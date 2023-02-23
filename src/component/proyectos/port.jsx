@@ -17,7 +17,7 @@ export default function Port(){
                 <p className="text-xl">Este es un proyecto personal de mi portafolio con react y tailwindCSS</p>
                 <div className="flex flex-wrap items-center justify-center p-3">
                     <div className="btn btn-primary btn-sm mr-10"><a href="https://github.com/martinbasile13/Portafolio" target={"_blank"}>repositorio</a></div>
-                    <div className="btn btn-primary btn-sm ml-10"><a href="https://moonlit-strudel-42f0fa.netlify.app/" target={"_blank"}>demo</a></div>
+                    <div className="btn btn-primary btn-sm ml-10"><a href="https://martin-basile.netlify.app/" target={"_blank"}>demo</a></div>
                 </div>
               </div>
             </div>
