@@ -18,6 +18,6 @@ module.exports = {
     logs: true,
     rtl: false,
     prefix: "",
-    themes: ["light", "dark", "dracula", "acid"],
+    themes: ["light", "dark", "dracula"],
   },
 }
