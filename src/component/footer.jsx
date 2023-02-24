@@ -6,16 +6,16 @@ export default function Footer(){
         <div>
           <div className="grid grid-flow-col gap-4">
             <a href="https://www.instagram.com/b4silee/" target="_blank">
-              <i className="fab fa-instagram icon "></i>
+              <i className="fab fa-instagram icon btn btn-sm btn-circle "></i>
             </a>
             <a href="https://twitter.com/MartinBasile13" target="_blank">
-              <i className="fab fa-twitter icon ml-7"></i>
+              <i className="fab fa-twitter icon ml-7 btn btn-sm btn-circle "></i>
             </a>
             <a href="https://github.com/martinbasile13" target="_blank">
-              <i className="fab fa-github icon ml-7"></i>
+              <i className="fab fa-github icon ml-7 btn btn-sm btn-circle "></i>
             </a>
             <a href="https://www.linkedin.com/in/martin-basile-00271023a/" target="_blank">
-              <i className="fab fa-linkedin icon ml-7"></i>
+              <i className="fab fa-linkedin icon ml-7 btn btn-sm btn-circle "></i>
             </a>
           </div>
         </div> 

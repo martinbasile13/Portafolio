@@ -3,6 +3,7 @@ import Proyects from "./component/proyects"
 import Skills from "./component/skills"
 import About from "./component/about"
 import Contact from "./component/contact"
+import ContactModal from "./component/contacModal"
 import Footer from "./component/footer"
 import { useState} from "react"
 
@@ -32,7 +33,7 @@ function App() {
               <li><a href="#proyects">Proyects</a></li>
               <li><a href="#skills">Skills</a></li>
               <li><a href="#about">About</a></li>
-              <a className="btn btn-primary" href="#contact">Contactar</a>
+              <a href="#contact" className="btn btn-primary">Contact Me</a>
             </ul>
           </div>
           <label className="ml-3 swap swap-rotate">
@@ -45,8 +46,8 @@ function App() {
           <ul className="menu menu-horizontal px-2">
               <li className="mr-5"><a href="#home">Home</a></li>
               <li className="mr-5"><a href="#about">About</a></li>
-              <li className="mr-5"><a href="https://martin-basile.blogspot.com/">Blog</a></li>
-              <a className="btn btn-primary mr-2" href="#contact">Contact</a>
+              <li className="mr-5"><a href="https://martin-basile.blogspot.com/" target="_blank">Blog</a></li>
+              <a><ContactModal/></a>
           </ul>
         </div>
       </div>

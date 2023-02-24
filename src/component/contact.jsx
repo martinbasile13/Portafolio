@@ -14,16 +14,16 @@ export default function Contact(){
                   <p className="text-2xl ml-16">Redes:</p>
                   <div className="flex flex-wrap items-center justify-center text-center w-96 mt-2">
                       <a href="https://www.instagram.com/b4silee/" target="_blank">
-                        <i className="fab fa-instagram icon ml-7"></i>
+                        <i className="fab fa-instagram icon ml-7 btn btn-sm btn-circle "></i>
                       </a>
                       <a href="https://twitter.com/MartinBasile13" target="_blank">
-                        <i className="fab fa-twitter icon ml-7"></i>
+                        <i className="fab fa-twitter icon ml-7 btn btn-sm btn-circle "></i>
                       </a>
                       <a href="https://github.com/martinbasile13" target="_blank">
-                        <i className="fab fa-github icon ml-7"></i>
+                        <i className="fab fa-github icon ml-7 btn btn-sm btn-circle "></i>
                       </a>
                       <a href="https://www.linkedin.com/in/martin-basile-00271023a/" target="_blank">
-                        <i className="fab fa-linkedin icon ml-7"></i>
+                        <i className="fab fa-linkedin icon ml-7 btn btn-sm btn-circle "></i>
                       </a>
                   </div>
                 </div>
