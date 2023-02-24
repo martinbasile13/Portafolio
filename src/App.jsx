@@ -44,10 +44,9 @@ function App() {
         <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-2">
               <li className="mr-5"><a href="#home">Home</a></li>
-              <li className="mr-5"><a href="#proyects">Proyects</a></li>
-              <li className="mr-5"><a href="#skills">Skills</a></li>
               <li className="mr-5"><a href="#about">About</a></li>
-              <a className="btn btn-primary mr-2" href="#contact">Contactar</a>
+              <li className="mr-5"><a href="https://martin-basile.blogspot.com/">Blog</a></li>
+              <a className="btn btn-primary mr-2" href="#contact">Contact</a>
           </ul>
         </div>
       </div>
