@@ -82,6 +82,7 @@ function App() {
           </div>
         </div>
       </div>
+      
       <div name="footer" className="items-center justify-center text-center mt-44">
         <Footer/>
       </div>
