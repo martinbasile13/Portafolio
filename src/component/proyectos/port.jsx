@@ -4,7 +4,7 @@ export default function Port(info){
     return(
         <div>
             {/* The button to open modal */}
-            <label htmlFor="my-modal-4" className="btn w-full h-full bg-base-100 shadow-xl shadow-primary rounded-xl mt-10">
+            <label htmlFor="my-modal-4" className="btn btn-ghost w-full h-full bg-base-100 shadow-xl shadow-primary rounded-xl mt-10">
               <div className="mt-1">
                 <figure><img src="../../imgs/portafolio.png" alt="" /></figure>
                 <div className="">
