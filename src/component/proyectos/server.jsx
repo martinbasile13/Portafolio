@@ -3,7 +3,14 @@ export default function Server(){
     return(
         <div>
             {/* The button to open modal */}
-            <label htmlFor="my-modal-5" className="btn btn-primary btn-sm">Mas Info</label>
+            <label htmlFor="my-modal-5" className="btn w-full h-full bg-base-100 shadow-xl shadow-primary rounded-xl mt-10">
+              <div className="mt-1">
+                <figure><img src="../../imgs/server1.png" alt="" /></figure>
+                <div className="">
+                  <h2 className="p-2 text-xl card-title my-3">Back End app</h2>
+                </div>
+              </div>
+            </label>
 
             {/* Put this part before </body> tag */}
             <input type="checkbox" id="my-modal-5" className="modal-toggle" />
