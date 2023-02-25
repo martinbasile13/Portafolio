@@ -1,7 +1,6 @@
 import Finhogar from "./proyectos/finhogar"
 import Server from "./proyectos/server"
 import Dark from "./proyectos/port"
-import ModalPro from "./modalPro"
 
 export default function Proyects(){
     return(
