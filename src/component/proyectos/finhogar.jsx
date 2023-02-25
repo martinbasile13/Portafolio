@@ -8,7 +8,7 @@ export default function Finhogar(){
             <div className="mt-1">
               <figure><img src="../../imgs/finhogar.png" alt="" /></figure>
               <div className="">
-                <h2 className="p-2 text-xl card-title my-3">FinHogar-app</h2>
+                <h2 className="p-2 text-xl card-title my-3 text-primary">FinHogar-app</h2>
               </div>
             </div>
           </label>

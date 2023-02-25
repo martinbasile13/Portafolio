@@ -29,10 +29,9 @@ function App() {
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
             </label>
             <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-              <li><a href="https://martin-basile.netlify.app/">Home</a></li>
-              <li><a href="#proyects">Proyects</a></li>
-              <li><a href="#skills">Skills</a></li>
-              <li><a href="#about">About</a></li>
+              <li className="mr-5"><a href="https://martin-basile.netlify.app/">Home</a></li>
+              <li className="mr-5"><a href="#about">About</a></li>
+              <li className="mr-5"><a href="https://martin-basile.blogspot.com/" target="_blank">Blog</a></li>
               <a href="#contact" className="btn btn-primary">Contact Me</a>
             </ul>
           </div>
@@ -44,7 +43,7 @@ function App() {
         </div>
         <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-2">
-              <li className="mr-5"><a href="#home">Home</a></li>
+              <li className="mr-5"><a href="https://martin-basile.netlify.app/">Home</a></li>
               <li className="mr-5"><a href="#about">About</a></li>
               <li className="mr-5"><a href="https://martin-basile.blogspot.com/" target="_blank">Blog</a></li>
               <a><ContactModal/></a>
@@ -63,7 +62,7 @@ function App() {
           <div className="items-center justify-center text-center mt-20">
             <a name="proyects"></a>
             <h1 className="text-3xl mb-3 underline decoration-4 decoration-primary underline-offset-8 ">Proyects</h1>
-           <Proyects/>
+           <Proyects info={themes}/>
           </div>
           <div className="text-center mt-20 ">
             <a name="skills"></a>

@@ -7,7 +7,7 @@ export default function Server(){
               <div className="mt-1">
                 <figure><img src="../../imgs/server1.png" alt="" /></figure>
                 <div className="">
-                  <h2 className="p-2 text-xl card-title my-3">Back End app</h2>
+                  <h2 className="p-2 text-xl card-title my-3 text-primary">Back End app</h2>
                 </div>
               </div>
             </label>
