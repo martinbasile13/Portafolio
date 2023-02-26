@@ -8,7 +8,7 @@ export default function Port(info){
               <div className="mt-1">
                 <figure><img src="../../imgs/portafolio.png" alt="" /></figure>
                 <div className="">
-                  <h2 className="p-2 text-xl card-title my-3 text-primary">Portafolio-app</h2>
+                  <h2 className="p-2 text-xl card-title my-3 ">Portafolio-app</h2>
                 </div>
               </div>
             </label>
