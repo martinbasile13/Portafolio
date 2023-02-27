@@ -11,12 +11,9 @@ export default function Contact(){
                 <p className="text-2xl mt-3 ">Tambien puedes contactarme en mis Redes Sociales</p>
                 </div>
                 <div className="mt-6">
-                  <p className="text-2xl ml-16">Redes:</p>
-                  <div className="flex flex-wrap items-center justify-center text-center w-96 mt-2">
-                      <a href="https://www.instagram.com/b4silee/" target="_blank">
-                        <i className="fab fa-instagram icon ml-7 btn btn-sm btn-circle "></i>
-                      </a>
-                      <a href="https://twitter.com/MartinBasile13" target="_blank">
+                  <p className="text-2xl ml-14">Redes:</p>
+                  <div className="flex flex-wrap items-center justify-center text-center w-96 mt-2 mx-5">
+                      <a href="https://twitter.com/martinbasile23" target="_blank">
                         <i className="fab fa-twitter icon ml-7 btn btn-sm btn-circle "></i>
                       </a>
                       <a href="https://github.com/martinbasile13" target="_blank">

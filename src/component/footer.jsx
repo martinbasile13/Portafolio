@@ -5,10 +5,7 @@ export default function Footer(){
       <footer className="footer footer-center p-10 bg-base-200 text-base-content rounded">
         <div>
           <div className="grid grid-flow-col gap-4">
-            <a href="https://www.instagram.com/b4silee/" target="_blank">
-              <i className="fab fa-instagram icon btn btn-sm btn-circle "></i>
-            </a>
-            <a href="https://twitter.com/MartinBasile13" target="_blank">
+            <a href="https://twitter.com/martinbasile23" target="_blank">
               <i className="fab fa-twitter icon ml-7 btn btn-sm btn-circle "></i>
             </a>
             <a href="https://github.com/martinbasile13" target="_blank">
