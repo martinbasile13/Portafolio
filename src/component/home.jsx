@@ -8,7 +8,7 @@ export default function Home({info}) {
             <div className="">
                 <p className="text-4xl pl-8">👋 Hola soy</p>
                 <h1 className="text-8xl"><span>Martin</span></h1>
-                <p className="text-3xl text-primary">Full Stack Developer en React/Django</p>
+                <p className="text-3xl text-primary">Full Stack Developer en ReactJS/NodeJS</p>
             </div>
             <div>
                 <div className="ml-5">
