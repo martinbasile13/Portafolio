@@ -3,7 +3,7 @@ import Proyects from "./component/proyects"
 import Skills from "./component/skills"
 import About from "./component/about"
 import Contact from "./component/contact"
-import ContactModal from "./component/contacModal"
+import ContactModal from "./component/assets/contacModal"
 import Footer from "./component/footer"
 import { useState} from "react"
 

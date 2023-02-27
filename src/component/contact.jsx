@@ -30,7 +30,7 @@ export default function Contact(){
             </div>
             
             <div className="card shrink w-full max-w-xl shadow-2xl bg-base-100 mt-10 shadow-primary">
-            <h1 className="text-3xl mb-3 underline decoration-primary underline-offset-8">Contactame</h1>
+            <h1 className="text-3xl m-5">El formulario de contacto esta deshabilitado por el momento</h1>
                 <div className="card-body">
                   <div className="form-control">
                     <label className="label">
